@@ -6,7 +6,7 @@ import io.grpc.justtest.TestResponse;
 
 import java.util.concurrent.TimeUnit;
 /**
- * 客户端
+ * 客户端.
  */
 public class TestClient {
     private final ManagedChannel channel;
