@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/grpc-server.iml" filepath="$PROJECT_DIR$/grpc-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grpc-demo.iml" filepath="$PROJECT_DIR$/grpc-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client/grpc-demo-client.iml" filepath="$PROJECT_DIR$/client/grpc-demo-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/grpc-demo-common.iml" filepath="$PROJECT_DIR$/common/grpc-demo-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server/grpc-demo-server.iml" filepath="$PROJECT_DIR$/server/grpc-demo-server.iml" />
     </modules>
   </component>
 </project>
