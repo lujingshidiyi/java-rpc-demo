@@ -1,4 +1,4 @@
-package com.luhao.simplecase;
+package org.luhao.simplecase;
 
 import io.grpc.Server;
 import io.grpc.ServerBuilder;
